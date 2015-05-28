@@ -1,0 +1,33 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"All Autocomplete",
+		"AngularInject",
+		"AngularJS",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Fold Python",
+		"GitGutter",
+		"GotoDocumentation",
+		"Jedi - Python autocompletion",
+		"JSHint",
+		"JSHint Gutter",
+		"Monokai Extended",
+		"Monokai JSON+",
+		"Origami",
+		"Package Control",
+		"Python Breakpoints",
+		"Python Flake8 Lint",
+		"Sass",
+		"Seti_UI",
+		"Spotify",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Cobalt2"
+	]
+}
