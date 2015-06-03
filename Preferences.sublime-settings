@@ -7,7 +7,7 @@
 			"selector": "source.python"
 		}
 	],
-	"color_scheme": "Packages/User/SublimeLinter/Monokai JSON+ (Flake8Lint) (SL).tmTheme",
+	"color_scheme": "Packages/User/Monokai Extended (Flake8Lint).tmTheme",
 	"draw_minimap_border": true,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
